@@ -94,6 +94,7 @@ if __name__ == "__main__":
     if len(sys.argv) < 3:
         print("Please provide an argument.")
         print("Example usage: python3 ftaud.py song.wav c")
+        print("Example usage: python3 ftaud.py image.png r")
         sys.exit(1)
 
     inputp = sys.argv[1]
