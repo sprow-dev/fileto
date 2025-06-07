@@ -1,4 +1,5 @@
 # fileto
+[License](https://sprow.dev/license)
 Your (probably not) goto file converter for tough situations.
 
 Currently includes:
