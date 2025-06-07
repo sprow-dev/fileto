@@ -3,11 +3,11 @@
 Your (probably not) goto file converter for tough situations.
 
 Currently includes:
- + Any file to PNG
+ + Any file to PNG\
 In development:
  + Any file to sound
 
-Requirements:
+Requirements:\
   Any file to PNG: Pillow and tqdm.
 
 How these work:
